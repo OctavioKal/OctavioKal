@@ -1,6 +1,6 @@
 # Olá, eu sou Octavio 👋
 
-💻 Estudante Engenharia de Software FIAP 
+💻 Engenharia de Software FIAP 
 📚 Fazendo exercícios e projetos  
 🚀 Aprendendo cada vez mais  
 
