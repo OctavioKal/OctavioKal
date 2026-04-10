@@ -1,6 +1,6 @@
 # Olá, eu sou Octavio 👋
 
-💻 Estudando programação  
+💻 Estudante de Engenharia de Software  
 📚 Fazendo exercícios e projetos  
 🚀 Aprendendo cada vez mais
 
