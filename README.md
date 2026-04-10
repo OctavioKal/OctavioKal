@@ -24,6 +24,6 @@
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OctavioKal&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=OctavioKal&show_icons=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioKal&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioKal&layout=compact" />
