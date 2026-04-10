@@ -6,7 +6,7 @@
 
 ## 🌐 Redes sociais
 
-<a href="www.linkedin.com/in/octavio-kal" target="_blank">
+<a href="https://www.linkedin.com/in/octavio-kal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -24,6 +24,6 @@
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OctavioKal&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioKal&layout=compact)
