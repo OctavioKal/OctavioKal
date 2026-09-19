@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou o Octavio!
+# Olá, eu sou o Octávio!
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Estudante+de+Engenharia+de+Software;Focado+em+desenvolvimento+de+software+e+dados;Sempre+aprendendo+e+construindo+projetos" alt="Typing SVG" />
+</div>
 
 Estudante de **Engenharia de Software na FIAP**, focado em **desenvolvimento de software e dados**.
 
@@ -6,7 +10,7 @@ Atualmente aprimorando meus conhecimentos por meio de **projetos acadêmicos e p
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia através de **projetos práticos e estudos contínuos**.
 
@@ -14,7 +18,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
@@ -58,7 +62,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -70,11 +74,11 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <div align="left">
 
-<a href="SEU_LINKEDIN_AQUI" target="_blank">
+<a href="www.linkedin.com/in/octavio-kal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -83,14 +87,3 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 </a>
 
 </div>
-
-  <a href="https://www.instagram.com/octaviokl_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
----
-
-### 🚀 Em constante evolução
-
-> "A melhor forma de aprender é construindo."
