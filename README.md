@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Oct%C3%A1vio!" alt="Olá, eu sou o Octavio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Oct%C3%A1vio!" alt="Olá, eu sou o Octávio" />
 </div>
 
 Estudante de **Engenharia de Software na FIAP**, focado em **desenvolvimento de software e dados**.
@@ -16,7 +16,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 ---
 
-## Tech Stack
+## Ferramentas
 
 <div align="left">
 
@@ -76,7 +76,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 <div align="left">
 
-<a href="www.linkedin.com/in/octavio-kal" target="_blank">
+<a href="https://www.linkedin.com/in/octavio-kal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
