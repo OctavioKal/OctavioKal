@@ -1,79 +1,60 @@
 # 👋 Olá, eu sou o Octavio!
 
-🎓 Estudante de **Engenharia de Software na FIAP**
-💻 Focado em **desenvolvimento de software, Python, SQL e dados**
-📚 Atualmente aprimorando meus conhecimentos por meio de projetos acadêmicos e pessoais.
+Estudante de **Engenharia de Software na FIAP**, focado em **desenvolvimento de software e dados**.
+
+Atualmente aprimorando meus conhecimentos por meio de **projetos acadêmicos e pessoais**.
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia através de projetos práticos e estudos contínuos.
+Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia através de **projetos práticos e estudos contínuos**.
 
-Atualmente, tenho como principais focos:
-
-* 🐍 **Python**
-* 🗄️ **SQL**
-* 📊 **Dados e Engenharia de Dados**
-* 🔌 **APIs REST**
-* ⚛️ **React**
-* 🍃 **MongoDB / NoSQL**
-* 📈 **Power BI**
-* 🐼 **Pandas**
-
-Gosto de aprender colocando a mão na massa e transformar o que estudo em projetos que possam fazer parte do meu portfólio.
+Gosto de aprender colocando a mão na massa e transformar o que estudo em **projetos que possam fazer parte do meu portfólio**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-### Linguagens
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
 
-### Desenvolvimento
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="45" alt="JavaScript"/>
+</a>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
 
-### Dados
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+</a>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<a href="https://react.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
 
-### Ferramentas
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
 
----
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
 
-## 📚 Atualmente estudando
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
 
-* Python para desenvolvimento e análise de dados
-* SQL e bancos de dados
-* Engenharia de Dados
-* APIs REST com Python
-* React
-* MongoDB e NoSQL
-* Pandas
-* Power BI
-
----
-
-## 💻 Projetos
-
-🔹 **API_Usuarios**
-API desenvolvida em Python utilizando FastAPI, com foco na criação e manipulação de usuários.
-
-🔹 **Exercícios Python**
-Repositório dedicado à prática de lógica de programação, estruturas de dados, funções, listas, dicionários, tuplas, filtros e outros conceitos de Python.
-
-🔹 **Projetos acadêmicos**
-Projetos desenvolvidos durante a graduação em Engenharia de Software, envolvendo programação, dados, lógica e desenvolvimento de sistemas.
+</div>
 
 ---
 
@@ -81,9 +62,9 @@ Projetos desenvolvidos durante a graduação em Engenharia de Software, envolven
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OctavioKal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OctavioKal&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioKal&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioKal&layout=compact&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -91,7 +72,18 @@ Projetos desenvolvidos durante a graduação em Engenharia de Software, envolven
 
 ## 🌐 Onde me encontrar
 
-<div>
+<div align="left">
+
+<a href="SEU_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/octaviokl_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
   <a href="https://www.instagram.com/octaviokl_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
