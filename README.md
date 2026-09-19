@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Oct%C3%A1vio!" alt="Olá, eu sou o Octávio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Oct%C3%A1vio!" alt="Olá, eu sou o Octavio" />
 </div>
 
 Estudante de **Engenharia de Software na FIAP**, focado em **desenvolvimento de software e dados**.
