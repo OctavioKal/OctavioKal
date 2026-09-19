@@ -16,7 +16,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 
 ---
 
-## Tech Stack
+## Ferramentas
 
 <div align="left">
 
