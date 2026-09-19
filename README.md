@@ -81,8 +81,7 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 </a>
 
 <a href="mailto:octaviok.lima@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="45" height="45" alt="Gmail"/>
+  <img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Gmail"/>
 </a>
 
 </div>
-
