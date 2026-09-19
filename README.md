@@ -77,11 +77,11 @@ Gosto de aprender colocando a mão na massa e transformar o que estudo em **proj
 <div align="left">
 
 <a href="https://www.linkedin.com/in/octavio-kal/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/octaviokl_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/octaviokl_/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="45" height="45" alt="Instagram"/>
 </a>
 
 </div>
